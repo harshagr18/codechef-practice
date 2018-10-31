@@ -15,10 +15,6 @@ int main()
 			if(faces[j]==a)
 				{cta++;}
 			if(faces[j]==b)
-				{ctb++;}
-		}
-	prob=(cta/face)*(ctb/face);
-	cout<<setprecision(10)<<fixed;
-	cout<<prob<<"\n";
+		
 	}
 }
